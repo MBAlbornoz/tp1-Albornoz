@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TP1Sysacad.Telefono" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Telefono.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Alumno" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Alumno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Ayudante" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ayudante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Carrera" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAQAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Carrera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Correlatividad" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Correlatividad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Cursada" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAYQAAAAAAAAAAQAQAABAAAFAAAAAAAAAAgAAAIABA=</HashCode>
+      <FileName>Cursada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Direccion" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAIAAEAAAIAAAAAAAIAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Direccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Docente" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Docente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.EstadoAcademico" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAEAAgAAQAAAIAAAAAABA=</HashCode>
+      <FileName>EstadoAcademico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Examen" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAQAAAAEAAAAAAAAAEAAAAAAAAAAgAAAAABA=</HashCode>
+      <FileName>Examen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Fecha" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Fecha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Form1" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Inscripcion" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAEAAAAABAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Inscripcion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.inscripcionExamen" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABA=</HashCode>
+      <FileName>inscripcionExamen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.inscripcionMateria" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAABAAA=</HashCode>
+      <FileName>inscripcionMateria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Materia" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAGAAAAAQAAAAAAAAAQAAQAAAEAAAAA=</HashCode>
+      <FileName>Materia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.MedioContacto" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>MedioContacto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Modalidad" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modalidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.NivelEstudio" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NivelEstudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Persona" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQQAAACAAAAAAAAAAAQCAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TP1Sysacad.Program" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
