@@ -1,0 +1,10 @@
+C:\Users\Maggy\source\repos\TP1Sysacad\TP1Sysacad\bin\Debug\TP1Sysacad.exe.config
+C:\Users\Maggy\source\repos\TP1Sysacad\TP1Sysacad\bin\Debug\TP1Sysacad.exe
+C:\Users\Maggy\source\repos\TP1Sysacad\TP1Sysacad\bin\Debug\TP1Sysacad.pdb
+C:\Users\Maggy\source\repos\TP1Sysacad\TP1Sysacad\obj\Debug\TP1Sysacad.csprojAssemblyReference.cache
+C:\Users\Maggy\source\repos\TP1Sysacad\TP1Sysacad\obj\Debug\TP1Sysacad.Properties.Resources.resources
+C:\Users\Maggy\source\repos\TP1Sysacad\TP1Sysacad\obj\Debug\TP1Sysacad.csproj.GenerateResource.cache
+C:\Users\Maggy\source\repos\TP1Sysacad\TP1Sysacad\obj\Debug\TP1Sysacad.csproj.CoreCompileInputs.cache
+C:\Users\Maggy\source\repos\TP1Sysacad\TP1Sysacad\obj\Debug\TP1Sysacad.exe
+C:\Users\Maggy\source\repos\TP1Sysacad\TP1Sysacad\obj\Debug\TP1Sysacad.pdb
+C:\Users\Maggy\source\repos\TP1Sysacad\TP1Sysacad\obj\Debug\TP1Sysacad.Form1.resources
